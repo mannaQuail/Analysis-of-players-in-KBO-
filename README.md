@@ -3,3 +3,6 @@ This is a project that analyzing players in KBO(especially Samsung Lions). I use
 
 ### Language and modules used
 python - selenium, beautifulSoup, time
+
+### Number of code lines
+124 lines
